@@ -1,0 +1,28 @@
+# ninja log v5
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/libflutter_linux_gtk.so	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_engine.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_value.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/fl_view.h	537d57a17dca5168
+5	20910	0	/media/fathi/New Volume/flutter/Weather_App/wether_application/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	537d57a17dca5168
+5	20910	0	flutter/_phony_	537d57a17dca5168
+20929	23728	1678166105018900200	CMakeFiles/wether_application.dir/flutter/generated_plugin_registrant.cc.o	aaaea47f35f04be8
+20928	24458	1678166105748121500	CMakeFiles/wether_application.dir/main.cc.o	1de46773ed7af060
+20928	24511	1678166105801584700	CMakeFiles/wether_application.dir/my_application.cc.o	7fccef09c38ff9e4
+24513	24888	1678166106186905600	intermediates_do_not_run/wether_application	872ab7481f7ff6d
+24888	26965	0	CMakeFiles/install.util	e3b1641c157303ec
