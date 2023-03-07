@@ -1,36 +1,168 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/main.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
-  <component name="ToolWindowManager">
-    <editor active="true" />
-    <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-    </layout>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35e07c4f-4e65-40f3-8450-67fb888afd44" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/.filecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/app.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/debug_bundle_linux-x64_assets.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/flutter_assets.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/gen_dart_plugin_registrant.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/kernel_snapshot.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/kernel_snapshot.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/linux_engine_sources.d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/outputs.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/unpack_linux.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/.last_build_id" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/c075001b96339384a97db4862b8ab8db.cache.dill.track.dill" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/d43c2434528d3a8159981dc516116859/_composite.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/d43c2434528d3a8159981dc516116859/gen_dart_plugin_registrant.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/d43c2434528d3a8159981dc516116859/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f445062891dd9d033f3d35750f7d7148/_composite.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f445062891dd9d033f3d35750f7d7148/gen_dart_plugin_registrant.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/f445062891dd9d033f3d35750f7d7148/gen_localizations.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/NOTICES.Z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/anims/cloudy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/anims/cloudy_main.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/cloud-in-blue-sky.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/icon-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/assets/images/rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/kernel_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/shaders/ink_sparkle.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/flutter_assets/version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/3.16.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/3.16.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/3.16.3/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/CMakeError.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/wether_application.dir/flutter/generated_plugin_registrant.cc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/wether_application.dir/main.cc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/CMakeFiles/wether_application.dir/my_application.cc.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/assets/anims/cloudy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/assets/anims/cloudy_main.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/cloud-in-blue-sky.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/icon-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/flutter_assets/version.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/data/icudtl.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/bundle/wether_application" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/flutter/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/install_manifest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/intermediates_do_not_run/wether_application" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/linux/x64/debug/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/api/apirepo.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/api/apirepo.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/constant/images.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/constant/images.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/controller/weatherservices.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/controller/weatherservices.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/cloud.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/cloud.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/coord.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/coord.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/currentweatherdata.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/currentweatherdata.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/fife_days_data.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/fife_days_data.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/main_weather.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/main_weather.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/sys.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/sys.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/weather.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/weather.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/model/wind.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/model/wind.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/service/weatherservices.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/service/weatherservices.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/biniding/homebindind.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/biniding/homebindind.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home/home_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wether_application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/wether_application.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget/MyCard.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget/myList.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widget/my_chart.dart" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MhLkj8qemfQEep4nSQMeuKPm3a" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
-    </navigator>
+    <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
       <pane id="ProjectPane">
         <option name="show-excluded-files" value="false" />
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.force.activate" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35e07c4f-4e65-40f3-8450-67fb888afd44" name="Changes" comment="" />
+      <created>1678215022251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678215022251</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
   </component>
 </project>

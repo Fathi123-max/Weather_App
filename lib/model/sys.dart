@@ -1,25 +1,22 @@
 
 class Sys {
-    Sys({
-        required this.type,
-        required this.id,
-        required this.country,
-        required this.sunrise,
-        required this.sunset,
-    });
+    Sys(
+               this.type,
+               this.id,
+               this.country,
+               this.sunrise,
+               this.sunset,
+    );
 
-    int type;
-    int id;
+    int type,id,sunrise,sunset;
     String country;
-    int sunrise;
-    int sunset;
-
+  
     factory Sys.fromJson(Map<String, dynamic> json) => Sys(
-        type: json["type"],
-        id: json["id"],
-        country: json["country"],
-        sunrise: json["sunrise"],
-        sunset: json["sunset"],
+     json["type"],
+     json["id"],
+     json["country"],
+     json["sunrise"],
+     json["sunset"],
     );
 
     Map<String, dynamic> toJson() => {

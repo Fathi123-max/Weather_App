@@ -2,17 +2,17 @@
 
 
 class Coord {
-    Coord({
-        required this.lon,
-        required this.lat,
-    });
+    Coord(
+             this.lon,
+             this.lat,
+    );
 
-    double lon;
-    double lat;
+    double lon,lat;
+    
 
     factory Coord.fromJson(Map<String, dynamic> json) => Coord(
-        lon: json["lon"]?.toDouble(),
-        lat: json["lat"]?.toDouble(),
+     json["lon"]?.toDouble(),
+     json["lat"]?.toDouble(),
     );
 
     Map<String, dynamic> toJson() => {

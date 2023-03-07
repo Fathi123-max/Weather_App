@@ -5,7 +5,7 @@ class HomeBinding extends Bindings {
   @override
   void dependencies() {
     
-    Get.lazyPut(() => HomeController( city: 'cairo'));
+    Get.lazyPut(() => HomeController(  'cairo'));
     
   }
 }

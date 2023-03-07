@@ -86,6 +86,12 @@
       "languageVersion": "2.14"
     },
     {
+      "name": "csslib",
+      "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/csslib-0.17.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "cupertino_icons",
       "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/cupertino_icons-1.0.5",
       "packageUri": "lib/",
@@ -128,8 +134,20 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "flutter_native_splash",
+      "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/flutter_native_splash-2.2.19",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "flutter_test",
       "rootUri": "file:///home/fathi/snap/flutter/common/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
+      "name": "flutter_web_plugins",
+      "rootUri": "file:///home/fathi/snap/flutter/common/flutter/packages/flutter_web_plugins",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
@@ -146,10 +164,22 @@
       "languageVersion": "2.15"
     },
     {
+      "name": "html",
+      "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/html-0.15.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "http_parser",
       "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/http_parser-4.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/image-4.0.15",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
     },
     {
       "name": "intl",
@@ -222,6 +252,12 @@
       "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/path-1.8.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
+    },
+    {
+      "name": "petitparser",
+      "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/petitparser-5.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
     },
     {
       "name": "pointycastle",
@@ -314,6 +350,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "universal_io",
+      "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/universal_io-2.2.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.15"
+    },
+    {
       "name": "vector_math",
       "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/vector_math-2.1.4",
       "packageUri": "lib/",
@@ -324,6 +366,12 @@
       "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/watcher-1.0.2",
       "packageUri": "lib/",
       "languageVersion": "2.14"
+    },
+    {
+      "name": "xml",
+      "rootUri": "file:///home/fathi/.pub-cache/hosted/pub.dev/xml-6.2.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
     },
     {
       "name": "yaml",
@@ -338,7 +386,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-03-06T22:08:40.260298Z",
+  "generated": "2023-03-07T18:21:12.798196Z",
   "generator": "pub",
   "generatorVersion": "2.19.3"
 }

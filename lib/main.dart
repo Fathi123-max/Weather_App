@@ -1,26 +1,26 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:wether_application/home/home_screen.dart';
+import 'package:wether_application/utils/biniding/homebindind.dart';
 
-void main(List<String> args) {
-  runApp(MaterialApp(
-    home: MyHomeApp(),
-  ));
+void main() {
+  runApp( WeatherApp());
+  
 }
-
-
-
-
-
-
-class MyHomeApp extends StatefulWidget {
-  const MyHomeApp({super.key});
-
-  @override
-  State<MyHomeApp> createState() => _MyHomeAppState();
-}
-
-class _MyHomeAppState extends State<MyHomeApp> {
+// whenever your initialization is completed, remove the splash screen:
+class WeatherApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return GetMaterialApp(
+      debugShowCheckedModeBanner: false,
+      initialRoute: '/',
+      getPages: [
+        GetPage(
+          name: '/',
+          page: () => HomeScreen(),
+          binding: HomeBinding(),
+        )
+      ],
+    );
   }
 }

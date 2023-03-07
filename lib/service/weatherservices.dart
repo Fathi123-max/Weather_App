@@ -39,11 +39,11 @@ required Function (dynamic) onError,
 //! Method Body 
 
 final url = "$baseUrl/weather?q=$city&$apiKey";
-Apirepo(url: url,payload: {}).getData(beforeSend:()=> beforeSend,
- onSuccess:(data)=> onSuccess(CurrentWeatherData.fromJson(data)),
+Apirepo( {},url).getData(()=> beforeSend,
+(data)=> onSuccess(CurrentWeatherData.fromJson(data)),
 
  
- onError: onError);
+  onError);
 
 
 }
@@ -79,14 +79,14 @@ required Function (dynamic) onError,
 
 
 final url = "$baseUrl/forcast?q=$city&$apiKey";
-Apirepo(url: url,payload: {}).getData(beforeSend:()=> beforeSend,
- onSuccess:(data){
+Apirepo({}, url ).getData(()=> beforeSend,
+ (data){
   onSuccess((data["list"]as List).map((e) => FiveDaysData.fromJson(e)).toList());
 
  },
 
  
- onError: onError);
+  onError);
 
 
 }

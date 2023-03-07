@@ -4,8 +4,8 @@ import 'package:wether_application/model/fife_days_data.dart';
 import 'package:wether_application/service/weatherservices.dart';
 
 class HomeController extends GetxController{
-  HomeController({required this.city});
-CurrentWeatherData? currentWeatherData;
+  HomeController(this.city);
+CurrentWeatherData currentWeatherData  = CurrentWeatherData();
  String city;
  List<FiveDaysData> fiveDaysData=[];
  List <CurrentWeatherData> datalist=[];

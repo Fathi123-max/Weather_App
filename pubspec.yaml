@@ -40,6 +40,11 @@ dependencies:
   intl: ^0.18.0
   syncfusion_flutter_charts: ^20.4.52
   lottie: ^2.2.0
+  flutter_native_splash: ^2.2.19
+
+flutter_native_splash:
+  color: "#ffffff"
+  color_dark: "#121212"
 
 dev_dependencies:
   flutter_test:

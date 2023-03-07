@@ -1,28 +1,26 @@
 
 class MainWeather {
-    MainWeather({
-        required this.temp,
-        required this.feelsLike,
-        required this.tempMin,
-        required this.tempMax,
-        required this.pressure,
-        required this.humidity,
-    });
+    MainWeather(
+       this.temp,
+       this.feelsLike,
+       this.tempMin,
+       this.tempMax,
+       this.pressure,
+       this.humidity,
+    );
 
-    double temp;
-    double feelsLike;
-    double tempMin;
-    double tempMax;
-    int pressure;
-    int humidity;
+    double temp,feelsLike,tempMin,tempMax;
+    
+    int pressure,humidity;
+    
 
     factory MainWeather.fromJson(Map<String, dynamic> json) => MainWeather(
-        temp: json["temp"]?.toDouble(),
-        feelsLike: json["feels_like"]?.toDouble(),
-        tempMin: json["temp_min"]?.toDouble(),
-        tempMax: json["temp_max"]?.toDouble(),
-        pressure: json["pressure"],
-        humidity: json["humidity"],
+       json["temp"].toDouble(),
+       json["feels_like"].toDouble(),
+       json["temp_min"].toDouble(),
+       json["temp_max"].toDouble(),
+       json["pressure"],
+       json["humidity"],
     );
 
     Map<String, dynamic> toJson() => {
