@@ -1,0 +1,16 @@
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/wether_application
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/icudtl.dat
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/assets/anims/cloudy.json
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/assets/anims/cloudy_main.json
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/cloud-in-blue-sky.jpg
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/icon-01.jpg
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/rain.png
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/linux/x64/debug/bundle/data/flutter_assets/version.json

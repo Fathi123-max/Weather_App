@@ -1,0 +1,4 @@
+#Tue Mar 07 21:01:50 EET 2023
+base.0=/media/fathi/New Volume/flutter_pre/Weather_App/wether_application/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
