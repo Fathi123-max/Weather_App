@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35e07c4f-4e65-40f3-8450-67fb888afd44" name="Changes" comment="">
+    <list default="true" id="35e07c4f-4e65-40f3-8450-67fb888afd44" name="Changes" comment="weather app version 2 with small fix in dio or in api">
       <change beforePath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/dartpad/web_plugin_registrant.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/.filecache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.dart_tool/flutter_build/95423b124ae95d0cf4c4595d0bc388d8/app.dill" beforeDir="false" />
@@ -157,6 +157,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678215022251</updated>
     </task>
+    <task id="LOCAL-00001" summary="weather app version 2 with small fix in dio or in api">
+      <created>1678216271785</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678216271785</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -164,5 +172,20 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="weather app version 2 with small fix in dio or in api" />
+    <option name="LAST_COMMIT_MESSAGE" value="weather app version 2 with small fix in dio or in api" />
   </component>
 </project>
