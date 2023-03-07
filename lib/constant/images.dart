@@ -1,12 +1,12 @@
-class images
+class Images
 
 
  {
   
-  images._();
+  Images._();
 
 
   static const String cloudy = "assets/anims/cloudy";  
 
-  static const String cloudy_main = "assets/anims/cloudy_main";
+  static const String cloudy_anim = "assets/anims/cloudy_main";
 }
